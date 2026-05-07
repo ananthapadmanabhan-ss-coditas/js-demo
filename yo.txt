@@ -1,0 +1,1 @@
+I am adding a text on the same line and this causes a merge conflict
