@@ -1,1 +1,2 @@
+I am adding a text on the same line and this causes a merge conflict
 this is to test a merge conflict i have made changes after a git pull
