@@ -1,1 +1,1 @@
-this is to test a merge conflict i have made changes after a git pull
+this is to test a merge conflict i have made changes from main after a git pull
